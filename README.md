@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laith21
 - 👀 I’m interested in Software Engineering/Development
-- 🌱 I’m currently a senior at Purdue University
-- 💞️ I’m looking for in an internship for the summer of 2022
+- 🌱 I’m currently a senior at Purdue University NorthWest
+- 💞️ I’m looking for SWE opportunity 
 - 📫 How to reach me .. 
   - LinkedIn
   https://www.linkedin.com/in/laithahmad/
